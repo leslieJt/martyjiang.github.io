@@ -6,3 +6,4 @@ url: "http://martyjiang.github.io"
 github_username:  MartyJiang
 encoding: utf-8
 markdown: kramdown
+include: [./imgs]

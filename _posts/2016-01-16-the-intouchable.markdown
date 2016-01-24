@@ -4,6 +4,8 @@ title:  "《The intouchable》观后感"
 date:   2016-01-16 20:31:30 -0800
 categories: impression_of_view
 ---
+<img width="500px" src="{{ site.baseurl }}/imgs/intouchable.jpg">
+
 之前在豆瓣电影的经典电影推荐的榜单上面都一直有留意到这部电影，但是从封面和电影名都不能
 引起我下载并观看的兴趣。知道昨天晚上闲来无聊下载下来看了一下。
 
