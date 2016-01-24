@@ -1,23 +1,8 @@
-name: Wangana
-description:  Perfect for powering your Github Pages hosted blog
-
-sass:
-  sass_dir: assets/css/_sass
-  style: :compressed
-
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-
-# url: #
-permalink: /:year/:month/:title/
-owner:
-    name: #
-    twitter: #
-    github: #
-    disqus_shortname: #
-
-ga_id: #
-ga_username: #
-
-timezone: Africa/Accra
+title: Alan的个人博客
+email: taojiang48#gmail.com
+description: Alan的个人博客，记录生活中一些有趣的事情
+    ，翻译，文摘......
+url: "http://martyjiang.github.io"
+github_username:  MartyJiang
+encoding: utf-8
+markdown: kramdown
